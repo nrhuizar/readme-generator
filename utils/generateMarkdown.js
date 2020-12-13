@@ -53,9 +53,17 @@ const generateTests = testsText => {
 ${testsText}`;
 };
 
+const generateMIT = mit => {
+  if (!'MIT') {
+
+  }
+    return `[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)`;
+};
+
 // function to generate markdown for README
 function generateMarkdown(data) {
   return `# ${data.title}
+${generateMIT(data.mit)}
 ${generateDescription(data.description)}
 
 ## Table of Contents
