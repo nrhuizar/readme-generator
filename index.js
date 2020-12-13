@@ -130,9 +130,21 @@ const writeFile = fileContent => {
 };
 
 // function to initialize program
-function init() {
+// function init();
 
-}
+// const readmeMd = generateMarkdown();
 
 // function call to initialize program
-init();
+questions()
+    .then(data => {
+        return generateMarkdown(data);
+    })
+    .then(readmeMd => {
+        return writeFile(readmeMd);
+    })
+    .then(writeFileResponse => {
+        console.log(writeFileResponse);
+    })
+    .catch(err => {
+        console.log(err);
+    });
