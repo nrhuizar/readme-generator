@@ -1,4 +1,4 @@
-# sdfknl
+# asdjkffhkl
 
 
 
@@ -16,9 +16,9 @@
 
 ## Licenses
 
-
+MIT,GNU GPLv3
 
 ## Questions  
 
-Feel free to checkout my other projects https://github.com/jdsklfj
-Or you can reach me @ sdklfn
+Feel free to checkout my other projects https://github.com/k;saldfh
+Or you can reach me @ asjdkflh

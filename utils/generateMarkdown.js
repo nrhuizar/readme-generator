@@ -56,13 +56,16 @@ ${testsText}`;
 
 
 
-const generateBadge = licensesArr => {
-  if (!licensesArr) {
+const generateBadge = licenses => {
+  if (!licenses) {
       return '';
     }
-
-    return `
-    ![license](https://img.shields.io/badge/License-${data.licenses.split(' ').join('%20')}-blue?style=for-the-badge)`;
+ 
+    for (let i = 0; i < licenses.length; i++) {
+      console.log(licenses);
+    `
+    ![license](https://img.shields.io/badge/License-${licenses.split(' ').join('%20')}-blue?style=for-the-badge)`;
+    }
 };
 
 // function to generate markdown for README
