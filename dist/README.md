@@ -1,5 +1,5 @@
-# sdffjknksa
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+# sdfknl
+
 
 
 ## Table of Contents
@@ -16,9 +16,9 @@
 
 ## Licenses
 
-MIT
+
 
 ## Questions  
 
-Feel free to checkout my other projects https://github.com/nrhuiasdf
-Or you can reach me @ nsdiafnu
+Feel free to checkout my other projects https://github.com/jdsklfj
+Or you can reach me @ sdklfn
