@@ -105,7 +105,7 @@ const questions = () => {
             when: ({ confirmTests }) => confirmTests
         },
         {
-            type: 'checkbox',
+            type: 'list',
             name: 'licenses',
             message: 'What licenses did you use for your project? (Check all that apply)',
             choices: ['MIT', 'GNU GPLv3', 'Mozilla', 'Apache', 'Boost', 'Unlicense']
@@ -129,12 +129,7 @@ const writeFile = fileContent => {
     });
 };
 
-// function to initialize program
-// function init();
-
-// const readmeMd = generateMarkdown();
-
-// function call to initialize program
+// initialize and run
 questions()
     .then(data => {
         return generateMarkdown(data);
