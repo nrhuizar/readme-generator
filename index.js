@@ -129,12 +129,7 @@ const writeFile = fileContent => {
     });
 };
 
-// function to initialize program
-// function init();
-
-// const readmeMd = generateMarkdown();
-
-// function call to initialize program
+// initialize and run
 questions()
     .then(data => {
         return generateMarkdown(data);
