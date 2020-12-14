@@ -63,8 +63,8 @@ const generateBadge = licenses => {
  
     for (let i = 0; i < licenses.length; i++) {
       console.log(licenses);
-    return `
-    ![license](https://img.shields.io/badge/License-${licenses}-blue?style=for-the-badge)`;
+    return`
+    ![license](https://img.shields.io/badge/License-${licenses.split(' ').join('%20')}-blue?style=for-the-badge)`;
     }
 };
 

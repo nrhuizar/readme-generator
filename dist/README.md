@@ -1,6 +1,6 @@
-# skjdflhkl
+# lkdsjf
 
-    ![license](https://img.shields.io/badge/License-MIT,GNU GPLv3-blue?style=for-the-badge)
+    ![license](https://img.shields.io/badge/License-GNU%20GPLv3-blue?style=for-the-badge)
 
 
 ## Table of Contents
@@ -17,9 +17,9 @@
 
 ## Licenses
 
-MIT,GNU GPLv3
+GNU GPLv3
 
 ## Questions  
 
-Feel free to checkout my other projects https://github.com/sdadfj;lk
-Or you can reach me @ asjkdfhk
+Feel free to checkout my other projects https://github.com/sdfjlk
+Or you can reach me @ lksdjf
