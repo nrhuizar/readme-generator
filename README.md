@@ -1,7 +1,6 @@
-# readme-generator
+# skjdflhkl
 
-# sdffjknksa
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+    ![license](https://img.shields.io/badge/License-MIT,GNU GPLv3-blue?style=for-the-badge)
 
 
 ## Table of Contents
@@ -18,9 +17,9 @@
 
 ## Licenses
 
-MIT
+MIT,GNU GPLv3
 
 ## Questions  
 
-Feel free to checkout my other projects https://github.com/nrhuiasdf
-Or you can reach me @ nsdiafnu
+Feel free to checkout my other projects https://github.com/sdadfj;lk
+Or you can reach me @ asjkdfhk
