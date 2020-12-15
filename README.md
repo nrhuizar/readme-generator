@@ -23,7 +23,7 @@ After completing your README, it will appear in the dist folder.
 
 Here is an example of mock README:
 
-
+![Screenshot](/images/README_Screenshot.png)
 
 ## Questions  
 
