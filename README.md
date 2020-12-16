@@ -1,9 +1,8 @@
 # README Generator
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ## Description
 
-The README Generator is an application using JavaScript and Node.  After installing the code, you will be able to dynamically create a professional README from your command line.
+The README Generator is an application using JavaScript and Node.  I enjoyed working on this project, because as a new developer, and I am always looking for what I need to put in the README. This guide helps me be more efficient and allows me to spend more time coding. After installing this code, you will be able to dynamically create a professional README from your command line.
 
 ## Table of Contents
 * [Installation](#installation)
@@ -12,18 +11,19 @@ The README Generator is an application using JavaScript and Node.  After install
 
 ## Installation
 
-To use this application you will need Node and the Inquirer package.
+After you clone this repository, you will need to open your command line to run through app.
 
+To use this application you will need to have Node intalled on your device and the Inquirer package to this folder.
 
 ## Usage
 
-When you call Node and the file name from the command line, you will be presented with questions to complete your README.
+When you call Node and index.js from the command line, you will be presented with questions to complete your README.
 
+After completing your README, it will appear in the dist folder.
 
+Here is an example of mock README:
 
-
-
-![alt text](/images/README_Screenshot.png)
+![Screenshot](/images/README_Screenshot.png)
 
 ## Questions  
 
