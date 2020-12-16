@@ -23,9 +23,7 @@ When you call Node and the file name from the command line, you will be presente
 
 
 
-## Licenses
-
-MIT
+![alt text](/images/README_Screenshot.png)
 
 ## Questions  
 
