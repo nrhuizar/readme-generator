@@ -1,9 +1,9 @@
-# README Generator
+# Code Quiz
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ## Description
 
-The README Generator is an application using JavaScript and Node.  After installing the code, you will be able to dynamically create a professional README from your command line.
+Code quiz is a first practice into using web APIs.  It is a short coding quiz that ends on a high score page displaying your score data.
 
 ## Table of Contents
 * [Installation](#installation)
@@ -12,12 +12,9 @@ The README Generator is an application using JavaScript and Node.  After install
 
 ## Installation
 
-To use this application you will need Node and the Inquirer package.
+Run index.html in your web browser.
 
 
-## Usage
-
-When you call Node and the file name from the command line, you will be presented with questions to complete your README.
 
 
 
